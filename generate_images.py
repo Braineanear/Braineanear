@@ -106,7 +106,7 @@ async def main() -> None:
     async with aiohttp.ClientSession() as session:
         s = Stats(user, access_token, session, exclude_repos=exclude_repos,
                   exclude_langs=exclude_langs)
-        await asyncio.gather(generate_languages(s), generate_overview(s))
+        await asyncio.gather(generate_overview(s))
 
 
 if __name__ == "__main__":
