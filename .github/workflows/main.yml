@@ -42,8 +42,7 @@ jobs:
     - name: Install requirements
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
-        python3 -m pip install -r requests
-        python3 -m pip install -r aiohttp
+        python3 -m pip install -r requirements.txt
     # Generate all statistics images
     - name: Generate images
       run: |
@@ -58,8 +57,8 @@ jobs:
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
-        git config --global user.name "jstrieb/github-stats"
-        git config --global user.email "github-stats[bot]@jstrieb.github.io"
+        git config --global user.name "Braineanear/Braineanear"
+        git config --global user.email "mle.mahmoud.yasser@gmail.com"
         git add .
         # "echo" returns true so the build succeeds, even if no changed files
         git commit -m 'Update generated files' || echo
