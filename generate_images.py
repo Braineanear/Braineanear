@@ -48,7 +48,7 @@ async def generate_overview(s: Stats) -> None:
         f.write(output)
 
 
-'''async def generate_languages(s: Stats) -> None:
+async def generate_languages(s: Stats) -> None:
     """
     Generate an SVG badge with summary languages used
     :param s: Represents user's GitHub statistics
@@ -67,15 +67,8 @@ async def generate_overview(s: Stats) -> None:
         progress += (f'<span style="background-color: {color};'
                      f'width: {data.get("prop", 0):0.3f}%;" '
                      f'class="progress-item"></span>')
-        lang_list += f"""
-<li style="animation-delay: {i * delay_between}ms;">
-<svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:{color};"
-viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
-fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
-<span class="lang">{lang}</span>
-<span class="percent">{data.get("prop", 0):0.2f}%</span>
-</li>
-"""
+        lang_list += f
+
 
     output = re.sub(r"{{ progress }}", progress, output)
     output = re.sub(r"{{ lang_list }}", lang_list, output)
@@ -83,7 +76,6 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
     generate_output_folder()
     with open("generated/languages.svg", "w") as f:
         f.write(output)
-'''
 ################################################################################
 # Main Function
 ################################################################################
