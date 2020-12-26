@@ -9,8 +9,20 @@ I am a Final Year Computer Engineering Student at Faculty of Computers & Artific
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/Braineanear) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/dev.png" alt="dev logo" width="24">](https://dev.to/braineanear) |  [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/twitter.png" alt="twitter logo" width="34">](https://twitter.com/Mahmoud03203227) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/mahmoud-yasser-081ab4158/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mle.mahmoud.yasser@gmail.com)
-|---|---|---|---|---|---|
+<a href="https://twitter.com/Mahmoud03203227">
+  <img align="left" alt="Mahmoud Yasser | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/mahmoud-yasser-081ab4158">
+  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/MahmoudYasserMLE/">
+  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="https://github.com/Braineanear">
+  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ----
 
