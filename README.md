@@ -23,7 +23,7 @@ I am a Final Year Computer Engineering Student at Faculty of Computers & Artific
 </a>
 <br><br>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
-  <br>
+<br>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ![github stats](https://github-readme-stats.vercel.app/api?username=Braineanear&show_icons=true&theme=dark)
