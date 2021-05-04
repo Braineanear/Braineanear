@@ -16,7 +16,7 @@ My name is Mahmoud Yasser and I am a Fullstack Developer :wink:.
 - 📫 How to reach me:
 <br />
 <a href="https://twitter.com/Mahmoud03203227">
-  <img align="left" alt="Mahmoud Yasser | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+  <img align="left" alt="Mahmoud Yasser | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-yasser-081ab4158">
   <img align="left" alt="Mahmoud Yasser" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
