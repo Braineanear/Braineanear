@@ -1,28 +1,39 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-    
-I am a Final Year Computer Engineering Student at Faculty of Computers & Artificial Intelligence. I love Machine Learning and trying to find more about Full Stack Web Development. 
+![Header](https://i.ibb.co/th20y4S/Header.png)
 
-- 🔭 I’m currently working on RESTful API using NodeJS/ExpressJS/MongoDB
-- 🌱 I’m currently learning Data Science | Full Stack Web development
+### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+My name is Mahmoud Yasser and I am a Fullstack Developer.
+
+- 🔭 I’m currently working on making RESTful API using NodeJS/ExpressJS/MongoDB/Redis/SocketIO/Passport/JWT.
+- 🌱 I’m currently learning ReactJS, NextJS, GraphQL.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
-
+<br />
 <a href="https://twitter.com/Mahmoud03203227">
-  <img align="left" alt="Mahmoud Yasser | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mahmoud Yasser | Twitter" width="22px" src="https://pngimg.com/uploads/twitter/twitter_PNG95259.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-yasser-081ab4158">
-  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" />
 </a>
 <a href="https://www.facebook.com/MahmoudYasserMLE/">
-  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://github.com/Braineanear">
-  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
 </a>
 <br><br>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/redux/redux-original.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/mongodb/mongodb-plain.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/nodejs/nodejs-plain.svg"></code> 
+<code><img height="20" src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-1.svg"></code>
+<code><img height="20" src="https://img.icons8.com/color/452/graphql.png"></code>
+<code><img height="20" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/css3/css3-plain.svg"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/0e565980d0a51fe7736bb090fb394659febfbe58/icons/html5/html5-plain.svg"></code>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
+
 ![Metrics](https://github.com/Braineanear/Braineanear/blob/main/github-metrics.svg)
