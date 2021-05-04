@@ -1,23 +1,28 @@
-<img src="https://i.ibb.co/WKGXzsj/Untitled-design-Max-Quality.jpg" width="100%"/>
-
 ### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-My name is Mahmoud Yasser and I am a Fullstack Developer.
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/WKGXzsj/Untitled-design-Max-Quality.jpg" width="100%" title="Intro Card" alt="Intro Card"/>
+</p>
+
+My name is Mahmoud Yasser and I am a Fullstack Developer :wink:.
 
 - 🔭 I’m currently working on making RESTful API using NodeJS/ExpressJS/MongoDB/Redis/SocketIO/Passport/JWT.
-- 🌱 I’m currently learning ReactJS, NextJS, GraphQL.
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/graphql.png" width="20"/>.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 📫 How to reach me:
 <br />
 <a href="https://twitter.com/Mahmoud03203227">
-  <img align="left" alt="Mahmoud Yasser | Twitter" width="22px" src="https://pngimg.com/uploads/twitter/twitter_PNG95259.png" />
+  <img align="left" alt="Mahmoud Yasser | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/mahmoud-yasser-081ab4158">
-  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG26.png" />
+  <img align="left" alt="Mahmoud Yasser" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 <a href="https://www.facebook.com/MahmoudYasserMLE/">
-  <img align="left" alt="Mahmoud Yasser" width="22px" src="https://pngimg.com/uploads/facebook_logos/facebook_logos_PNG19750.png" />
+  <img align="left" alt="Mahmoud Yasser" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
 </a>
 <br><br>
   <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
