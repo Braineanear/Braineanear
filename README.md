@@ -6,10 +6,10 @@
   <img src="https://i.ibb.co/WKGXzsj/Untitled-design-Max-Quality.jpg" width="100%" title="Intro Card" alt="Intro Card"/>
 </p>
 
-My name is Mahmoud Yasser and I am a Fullstack Developer :wink:.
+My name is Mahmoud Yasser, I'm a Backend Engineer :wink:.
 
-- 🔭 I’m currently working on making RESTful API using NodeJS/ExpressJS/MongoDB/Redis/SocketIO/Passport/JWT.
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/react-native.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/typescript.png" width="20"/> <img src="https://img.icons8.com/color/48/000000/graphql.png" width="20"/>.
+- 🔭 I’m Building RESTful APIs.
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/graphql.png" width="20"/>.
 - 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
