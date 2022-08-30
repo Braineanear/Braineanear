@@ -68,16 +68,8 @@ My name is Mahmoud Yasser, I'm a Backend Engineer :wink:.
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Braineanear&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Braineanear](https://sourcerer.io/braineanear)
-
----
-
 Let's connect 👨‍💻 and forge the future together.😁✌
 
-**Check the Repositories and don't forget to give a star.** 👇
-
-:star: From [Braineanear](https://github.com/Braineanear)
+**Check the Repositories and don't forget to give a star.**
 
 
