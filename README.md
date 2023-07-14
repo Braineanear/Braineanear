@@ -1,73 +1,70 @@
-### 👋 Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
----
-
 <p align="center">
   <img src="https://i.ibb.co/WKGXzsj/Untitled-design-Max-Quality.jpg" width="100%" title="Intro Card" alt="Intro Card"/>
 </p>
 
-My name is Mahmoud Yasser, I'm a Backend Engineer :wink:.
+<h1 align="center">Hi 👋, I'm Mahmoud Yasser</h1>
+<h3 align="center">Senior Software Engineer</h3>
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/braineanear" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;">
+  </a>
+  
+  <a href="https://twitter.com/Mahmoud03203227" target="_blank">
+    <img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;">
+  </a>
+  
+  <a href="https://braineanear.medium.com" target="_blank">
+    <img src="https://camo.githubusercontent.com/56d9a0521f29095fe46207f9d77cfc132a3e4912a9c79431c35d2506f86f4e37/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d656469756d26636f6c6f723d303030303030266c6f676f3d4d656469756d266c6f676f436f6c6f723d464646464646266c6162656c3d" alt=medium style="margin-bottom: 5px;">
+  </a>
+</p>
 
-- 🔭 I’m Building RESTful APIs.
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/graphql.png" width="20"/>.
-- 👯 I’m looking to collaborate on Web Development Projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💬 Ask me about anything. I will try to help you as much as I can.
-- ⚡ Quote: There is always time. You just have to find it.
-- 📫 How to reach me:
-<br />
-<a href="https://twitter.com/Mahmoud03203227">
-  <img align="left" alt="Mahmoud Yasser | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
-</a>
-<a href="https://www.linkedin.com/in/mahmoud-yasser-081ab4158">
-  <img align="left" alt="Mahmoud Yasser" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
-</a>
-<a href="https://www.facebook.com/MahmoudYasserMLE/">
-  <img align="left" alt="Mahmoud Yasser" width="30px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
-</a>
-<br><br>
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+I'm a senior software engineer with 3 years of experience and a passion for open-source development and mentoring. Demonstrated expertise in driving innovation and progress through successful initiatives. Regularly publishes informative articles on Medium to share knowledge and insights. Proven track record in improving response times, reducing costs, and enhancing customer satisfaction. Strong technical proficiency in JavaScript, NodeJS, ExpressJS, NestJS, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
+
 <br>
 
+## Tech & Tools Preference
 
-![Profile views](https://gpvc.arturio.dev/Braineanear)
+<p>
+  <a href="#"><img alt="Javascript" src="https://skillicons.dev/icons?i=js"></a>
+  <a href="#"><img alt="Typescript" src="https://skillicons.dev/icons?i=typescript"></a>
+  <a href="#"><img alt="NodeJS" src="https://skillicons.dev/icons?i=nodejs"></a>
+  <a href="#"><img alt="ExpressJS" src="https://skillicons.dev/icons?i=express"></a>
+  <a href="#"><img alt="NestJS" src="https://skillicons.dev/icons?i=nestjs"></a>
+  <a href="#"><img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"></a>
+  <a href="#"><img alt="PostgreSQL" src="https://skillicons.dev/icons?i=postgres"></a>
+  <a href="#"><img alt="Nginx" src="https://skillicons.dev/icons?i=nginx"></a>
+  <a href="#"><img alt="AWS" src="https://skillicons.dev/icons?i=aws"></a>
+  <a href="#"><img alt="GCP" src="https://skillicons.dev/icons?i=gcp"></a>
+  <a href="#"><img alt="Bash" src="https://skillicons.dev/icons?i=bash"></a>
+  <a href="#"><img alt="Docker" src="https://skillicons.dev/icons?i=docker"></a>
+  <a href="#"><img alt="Git" src="https://skillicons.dev/icons?i=git"></a>
+  <a href="#"><img alt="Github" src="https://skillicons.dev/icons?i=github"></a>
+  <a href="#"><img alt="Gitlab" src="https://skillicons.dev/icons?i=gitlab"></a>
+  <a href="#"><img alt="Go" src="https://skillicons.dev/icons?i=go"></a>
+  <a href="#"><img alt="Prometheus" src="https://skillicons.dev/icons?i=prometheus"></a>
+  <a href="#"><img alt="Grafana" src="https://skillicons.dev/icons?i=grafana"></a>
+  <a href="#"><img alt="Jenkins" src="https://skillicons.dev/icons?i=jenkins"></a>
+  <a href="#"><img alt="Kafka" src="https://skillicons.dev/icons?i=kafka"></a>
+  <a href="#"><img alt="Kubernetes" src="https://skillicons.dev/icons?i=kubernetes"></a>
+  <a href="#"><img alt="Linux" src="https://skillicons.dev/icons?i=linux"></a>
+  <a href="#"><img alt="Postman" src="https://skillicons.dev/icons?i=postman"></a>
+  <a href="#"><img alt="Prisma" src="https://skillicons.dev/icons?i=prisma"></a>
+  <a href="#"><img alt="RabbitMQ" src="https://skillicons.dev/icons?i=rabbitmq"></a>
+  <a href="#"><img alt="Redis" src="https://skillicons.dev/icons?i=redis"></a>
+  <a href="#"><img alt="GraphQL" src="https://skillicons.dev/icons?i=graphql"></a>
+  <a href="#"><img width="43" height="43" alt="Elasticsearch" src="https://camo.githubusercontent.com/d4cbacdc000de378e0dcae3b5ee54923c0ad04f6e52b7aa886a748fba5578def/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f656c61737469632f656c61737469632d69636f6e2e737667"></a>
+</p>
 
----
+<br>
+
+## Github Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braineanear&" alt="braineanear" />|<img src="https://github-readme-stats.vercel.app/api?username=braineanear&show_icons=true&locale=en" alt="braineanear" />
+|---|---|
 
 
-### Tech & Tools Preference
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Expressjs](https://img.shields.io/badge/-Express.js-787878?style=flat-square&logo=Express.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SASS](https://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](http://img.shields.io/badge/-Git-F1502F?style=flat-square&logo=git)
-![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code)
-
-
-### Other Languages I know
-<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
-
----
-
+<br>
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.**
