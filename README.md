@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahmoud Yasser</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 <p align="center"> 
   <a href="https://www.linkedin.com/in/braineanear" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  I'm a seasoned software engineer with a 3-year journey in tech, passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in JavaScript, NodeJS, ExpressJS, NestJS, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
+  I'm a software engineer with a 4-year journey in tech, passionate about open-source development and mentoring. I've driven innovation with successful initiatives and share insights through Medium articles. I'm proficient in JavaScript, NodeJS, ExpressJS, NestJS, SQL, NoSQL, AWS, GCP, Docker, Kubernetes, and more.
 </p>
 
 <br>
